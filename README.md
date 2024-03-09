@@ -1,4 +1,4 @@
-# Painting_project
+# Paint
 
 A simple painting program written in Java as part of my programming course
 
